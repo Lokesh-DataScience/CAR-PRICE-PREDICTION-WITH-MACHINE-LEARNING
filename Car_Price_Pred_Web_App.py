@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 import pandas as pd
 
-model = joblib.load('rf_model.pkl')
+model = joblib.load('lr_model.pkl')
 
 data = pd.read_csv('car data.csv')
 bike_names = [
