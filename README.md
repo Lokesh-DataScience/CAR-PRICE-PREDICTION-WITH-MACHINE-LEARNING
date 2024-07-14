@@ -27,8 +27,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Lokesh-DataScience/OASIS_CAR-PRICE-PREDICTION-WITH-MACHINE-LEARNING.git
-    cd OASIS_CAR-PRICE-PREDICTION-WITH-MACHINE-LEARNING
+    git clone https://github.com/Lokesh-DataScience/oibsip_3.git
+    cd oibsip_3
     ```
 
 2. Install the required Python libraries:
