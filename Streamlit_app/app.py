@@ -5,7 +5,7 @@ import json
 import pandas as pd
 
 # Configuration
-API_URL = "http://localhost:8000"  # Change if your FastAPI runs elsewhere
+API_URL = "https://car-price-prediction-gfv5.onrender.com"  # Change if your FastAPI runs elsewhere
 
 CAR_NAMES = [
     'ritz', 'sx4', 'ciaz', 'wagon r', 'swift', 'vitara brezza',
