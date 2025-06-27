@@ -154,6 +154,6 @@ def list_models():
     return {"available_models": list(models.keys())}
 
 # Health check endpoint
-@app.get("/health")
+@app.get("/")
 def health_check():
     return {"status": "healthy", "models_loaded": len(models)}
